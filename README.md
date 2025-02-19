@@ -1,16 +1,16 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+🚀 Excited to share my latest Flutter project! 🚀
 
-## Getting Started
+## Demo 
+![Quiz App Demo](./assets/quiz_app_demo.gif)
 
-This project is a starting point for a Flutter application.
+The **Quiz App** is a feature-rich mobile application built using the Flutter framework, designed to provide an engaging quiz experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- 🎨 **Custom App Icon & Start Page** for a polished look
+- 🔄 **Dynamically Rendered Questions** to ensure a seamless quiz flow
+- 📊 **Result Page** displaying correct and user-selected answers
+- 📜 **Scrollable Result List** for an improved user experience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project has been a great opportunity to refine my **Flutter** skills, particularly in **UI rendering** and **state management**. I’d love to hear your feedback and suggestions!
